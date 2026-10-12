@@ -8,7 +8,7 @@
   "server": {
     "ip": "IKYOS.aternos.me",
     "port": 57548,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
